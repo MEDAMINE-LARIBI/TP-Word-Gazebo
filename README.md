@@ -27,24 +27,25 @@ AI Model for Heart Disease Segmentation: Created a model for cardiac disease seg
 
 # 🛠 Technologies
 
-<div align="left">
-  ![Arduino](https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_Logo.svg) 
-  [Arduino](https://www.arduino.cc) &nbsp;
-  
-  ![STM32](https://upload.wikimedia.org/wikipedia/commons/4/45/Stm32_logo.png) 
-  [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-microcontrollers.html) &nbsp;
-  
-  ![LabVIEW](https://upload.wikimedia.org/wikipedia/commons/7/7e/Labview_logo.png) 
-  [LabVIEW](https://www.ni.com/fr-fr/shop/labview.html) &nbsp;
-  
-  ![SolidWorks](https://upload.wikimedia.org/wikipedia/commons/3/3c/SolidWorks_Logo.svg) 
-  [SolidWorks](https://www.solidworks.com) &nbsp;
-  
-  ![Catia V5](https://upload.wikimedia.org/wikipedia/commons/6/68/CATIA_Logo.png) 
-  [Catia V5](https://www.3ds.com/products-services/catia/) &nbsp;
-  
-  ![MasterCAM](https://upload.wikimedia.org/wikipedia/commons/3/3a/Mastercam_logo.svg) 
-  [MasterCAM](https://www.mastercam.com)
+<div align="left"> 
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_Logo.svg" alt="Arduino" width="40" height="40" />
+  </a> &nbsp; 
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-microcontrollers.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Stm32_logo.png" alt="STM32" width="40" height="40" />
+  </a> &nbsp; 
+  <a href="https://www.ni.com/fr-fr/shop/labview.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Labview_logo.png" alt="LabVIEW" width="40" height="40" />
+  </a> &nbsp; 
+  <a href="https://www.solidworks.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40" />
+  </a> &nbsp; 
+  <a href="https://www.3ds.com/products-services/catia/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/CATIA_Logo.png" alt="Catia V5" width="40" height="40" />
+  </a> &nbsp; 
+  <a href="https://www.mastercam.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Mastercam_logo.svg" alt="MasterCAM" width="40" height="40" />
+  </a> 
 </div>
 
 # 📚 Libraries
