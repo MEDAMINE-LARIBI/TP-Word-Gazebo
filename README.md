@@ -8,7 +8,7 @@
 Enthusiastic about smart technologies and AI applications
 Hands-on experience in automation and embedded systems development
 Eager to collaborate on impactful and innovative projects
-<div align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_Intelligence_icon.png" alt="AI Icon" width="50" height="50"> </div>
+<div align="center"> <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI Icon"> </div>
 # 🚀 Projects & Experience:
 
 Industrial IoT System: Designed an IoT solution for remote monitoring and data analysis
