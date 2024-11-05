@@ -49,6 +49,13 @@ AI Model for Heart Disease Segmentation: Created a model for cardiac disease seg
   </a> 
 </div>
 
+[![Arduino](https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_Logo.svg)](https://www.arduino.cc) 
+[![STM32](https://upload.wikimedia.org/wikipedia/commons/4/45/Stm32_logo.png)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-microcontrollers.html) 
+[![LabVIEW](https://upload.wikimedia.org/wikipedia/commons/7/7e/Labview_logo.png)](https://www.ni.com/fr-fr/shop/labview.html) 
+[![SolidWorks](https://upload.wikimedia.org/wikipedia/commons/3/3c/SolidWorks_Logo.svg)](https://www.solidworks.com) 
+[![Catia V5](https://upload.wikimedia.org/wikipedia/commons/6/68/CATIA_Logo.png)](https://www.3ds.com/products-services/catia/) 
+[![MasterCAM](https://upload.wikimedia.org/wikipedia/commons/3/3a/Mastercam_logo.svg)](https://www.mastercam.com)
+
 # 📚 Libraries
 <div align="left"> <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" /></a> &nbsp; <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" /></a> &nbsp; <a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" /></a> &nbsp; <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" /></a> </div>
 
