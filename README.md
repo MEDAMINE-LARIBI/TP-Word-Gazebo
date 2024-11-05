@@ -53,15 +53,15 @@ AI Model for Heart Disease Segmentation: Created a model for cardiac disease seg
 
 # 📜 Certifications:
 
-Artificial Intelligence Certification (Certiport)
-JavaScript, Python, HTML/CSS (Certiport)
-SOLIDWORKS Electrical Design Associate (CSWA-E)
-SOLIDWORKS CAD Design Associate (CSWA)
+- **Artificial Intelligence Certification (Certiport)**
+- **JavaScript, Python, HTML/CSS (Certiport)**
+- **SOLIDWORKS Electrical Design Associate (CSWA-E)**
+- **SOLIDWORKS CAD Design Associate (CSWA)**
 
 # 📚 Education:
 
-Bachelor's in Electrical Engineering - Mechatronics
-Certification in Embedded Systems
+- **Bachelor's in Electrical Engineering - Mechatronics**
+- **Master's in Mechanical Engineering**
 
 # 🎯 Future Goals:
 
