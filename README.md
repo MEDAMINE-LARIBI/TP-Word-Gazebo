@@ -26,24 +26,25 @@ AI Model for Heart Disease Segmentation: Created a model for cardiac disease seg
 <div align="left"> <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="C" width="40" height="40" /></a> &nbsp; <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="C++" width="40" height="40" /></a> &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a> &nbsp; <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a> </div>
 
 # 🛠 Technologies
+
 <div align="left"> 
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
-  </a> &nbsp; &nbsp; 
+  </a> &nbsp; 
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/STMicroelectronics_logo.png" alt="STM32" width="40" height="40" />
-  </a> &nbsp; &nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/STMicroelectronics_logo.png" alt="STM32" width="40" height="40" />
+  </a> &nbsp; 
   <a href="https://www.labview.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Labview_logo.png" alt="LabVIEW" width="40" height="40" />
-  </a> &nbsp; &nbsp; 
+  </a> &nbsp; 
   <a href="https://www.solidworks.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40" />
-  </a> &nbsp; &nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40" />
+  </a> &nbsp; 
   <a href="https://www.catia.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/CATIA_Logo.png" alt="Catia V5" width="40" height="40" />
-  </a> &nbsp; &nbsp; 
+  </a> &nbsp; 
   <a href="https://www.mastercam.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Mastercam_logo.svg" alt="MasterCAM" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Mastercam_logo.svg" alt="MasterCAM" width="40" height="40" />
   </a> 
 </div>
 
